@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaisarahAisyahProject</string>
+
+    <string-array name="vehicle">
+        <item>Motorcycle</item>
+        <item>Car</item>
+        <item>4x4 Pickup</item>
+    </string-array>
+
+    <string-array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>
